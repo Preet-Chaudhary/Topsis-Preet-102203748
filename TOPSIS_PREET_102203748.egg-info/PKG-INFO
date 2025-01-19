@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: TOPSIS-PREET-102203748
+Version: 1
+Summary: TYPE YOUR DESCRIPTION HERE
+Home-page: https://github.com/user/reponame
+Download-URL: https://github.com/Preet-Chaudhary/Topsis-Preet-102203748/archive/refs/tags/01.tar.gz
+Author: Preet
+Author-email: pchaudhary_be22@thapar.edu
+License: MIT
+Keywords: SOME,MEANINGFULL,KEYWORDS
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+License-File: license
